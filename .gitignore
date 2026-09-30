@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+*.log
+local_reviews/
+library-review/
+data/
+*.pdf
+*.zip
+*.png
+EVALUATION.md

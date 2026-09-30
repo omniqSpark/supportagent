@@ -1,0 +1,61 @@
+[
+  {
+    "id": "DEMO-COV-1",
+    "customer_id": "DEMO-ACME",
+    "customer": "Acme Parking (fictional)",
+    "site_id": "DEN-01",
+    "site": "Denver demo garage",
+    "technician": "Alex Morgan (fictional)",
+    "skills": [
+      "LPR camera",
+      "Edge device",
+      "Event delivery",
+      "Network"
+    ],
+    "available": true,
+    "rank": 1,
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28"
+  },
+  {
+    "id": "DEMO-COV-2",
+    "customer_id": "DEMO-ACME",
+    "customer": "Acme Parking (fictional)",
+    "site_id": "DEN-01",
+    "site": "Denver demo garage",
+    "technician": "Sam Rivera (fictional)",
+    "skills": [
+      "SFTP",
+      "Software",
+      "Hardware"
+    ],
+    "available": true,
+    "rank": 1,
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28"
+  },
+  {
+    "id": "DEMO-COV-3",
+    "customer_id": "DEMO-ACME",
+    "customer": "Acme Parking (fictional)",
+    "site_id": "SLC-01",
+    "site": "Salt Lake demo campus",
+    "technician": "Jordan Lee (fictional)",
+    "skills": [
+      "LPR camera",
+      "Edge device",
+      "Event delivery",
+      "Network",
+      "SFTP",
+      "Software",
+      "Hardware"
+    ],
+    "available": true,
+    "rank": 1,
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28"
+  }
+]

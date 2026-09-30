@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1001",
+    "category": "LPR camera",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1002",
+    "category": "Edge device",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1003",
+    "category": "Event delivery",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1004",
+    "category": "Network",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1005",
+    "category": "SFTP",
+    "technician": "Sam Rivera (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1006",
+    "category": "Software",
+    "technician": "Sam Rivera (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1007",
+    "category": "Hardware",
+    "technician": "Jordan Lee (fictional)",
+    "escalate": false,
+    "priority": "Normal"
+  },
+  {
+    "id": "1008",
+    "category": "Needs triage",
+    "technician": "Human dispatch",
+    "escalate": true,
+    "priority": "Normal"
+  },
+  {
+    "id": "1009",
+    "category": "Needs triage",
+    "technician": "Human dispatch",
+    "escalate": true,
+    "priority": "Normal"
+  },
+  {
+    "id": "1010",
+    "category": "SFTP",
+    "technician": "Human dispatch",
+    "escalate": true,
+    "priority": "Normal"
+  },
+  {
+    "id": "1011",
+    "category": "LPR camera",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": true,
+    "priority": "Urgent"
+  },
+  {
+    "id": "1012",
+    "category": "Software",
+    "technician": "Sam Rivera (fictional)",
+    "escalate": true,
+    "priority": "Urgent"
+  },
+  {
+    "id": "1013",
+    "category": "LPR camera",
+    "technician": "Jordan Lee (fictional)",
+    "escalate": true,
+    "priority": "Urgent"
+  },
+  {
+    "id": "1014",
+    "category": "Hardware",
+    "technician": "Human dispatch",
+    "escalate": true,
+    "priority": "Normal"
+  },
+  {
+    "id": "1015",
+    "category": "SFTP",
+    "technician": "Sam Rivera (fictional)",
+    "escalate": true,
+    "priority": "Urgent"
+  },
+  {
+    "id": "1016",
+    "category": "Edge device",
+    "technician": "Alex Morgan (fictional)",
+    "escalate": true,
+    "priority": "Urgent"
+  }
+]

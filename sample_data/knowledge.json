@@ -1,0 +1,86 @@
+[
+  {
+    "id": "DEMO-KB-01",
+    "title": "LPR camera: initial evidence collection",
+    "category": "LPR camera",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What camera model and software version are affected?",
+    "advice": "Record the affected lane and a non-sensitive example timestamp for technician review.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-02",
+    "title": "Edge device: initial evidence collection",
+    "category": "Edge device",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What edge device model and last-seen timestamp are shown?",
+    "advice": "Record the last-seen status displayed in the existing monitoring view.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-03",
+    "title": "Event delivery: initial evidence collection",
+    "category": "Event delivery",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What is one missing event timestamp, including timezone?",
+    "advice": "Compare one expected event timestamp with the receiving system\u2019s visible record.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-04",
+    "title": "Network: initial evidence collection",
+    "category": "Network",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "Which endpoint cannot be reached, and from which site?",
+    "advice": "Record the affected endpoint and when connectivity last worked.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-05",
+    "title": "SFTP: initial evidence collection",
+    "category": "SFTP",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What exact SFTP error code is shown, with credentials removed?",
+    "advice": "Record the transfer time and sanitized error text from the existing transfer log.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-06",
+    "title": "Software: initial evidence collection",
+    "category": "Software",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What application version and exact error message are shown?",
+    "advice": "Record the application version and the steps that reproduce the reported error.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  },
+  {
+    "id": "DEMO-KB-07",
+    "title": "Hardware: initial evidence collection",
+    "category": "Hardware",
+    "version": "1.0",
+    "approval": "sandbox",
+    "approved_by": "Sandbox fixture author \u2014 NOT omniQ approval",
+    "valid_until": "2027-09-28",
+    "question": "What hardware model and visible fault indicator are present?",
+    "advice": "Record the model and visible fault indicator without opening or changing the device.",
+    "scope": "Fictional sandbox intake only; no product diagnosis or repair procedure."
+  }
+]

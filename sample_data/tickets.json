@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1001",
+    "source": "sample",
+    "subject": "LPR camera misses plates",
+    "description": "The LPR camera misses plate reads in lane 2.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1002",
+    "source": "sample",
+    "subject": "Edge device check-in",
+    "description": "One edge device stopped checking in yesterday.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1003",
+    "source": "sample",
+    "subject": "Event delivery delayed",
+    "description": "Event delivery is delayed by five minutes.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1004",
+    "source": "sample",
+    "subject": "Intermittent connectivity",
+    "description": "Network packet loss occurs at one endpoint.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1005",
+    "source": "sample",
+    "subject": "Nightly transfer failed",
+    "description": "SFTP shows permission denied at 02:00.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1006",
+    "source": "sample",
+    "subject": "Report export error",
+    "description": "Software report export returns error 500.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1007",
+    "source": "sample",
+    "subject": "Fan fault",
+    "description": "Hardware fan fault indicator is on.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "SLC-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1008",
+    "source": "sample",
+    "subject": "Two symptoms",
+    "description": "Camera is intermittent and network packet loss is reported.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1009",
+    "source": "sample",
+    "subject": "Please help",
+    "description": "It is not working.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1010",
+    "source": "sample",
+    "subject": "Unknown location",
+    "description": "SFTP transfer failed.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1011",
+    "source": "sample",
+    "subject": "Entire site outage",
+    "description": "All lanes have LPR camera failures; site down.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1012",
+    "source": "sample",
+    "subject": "Unauthorized access",
+    "description": "Software shows unauthorized access and a possible security breach.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1013",
+    "source": "sample",
+    "subject": "Watchlist concern",
+    "description": "LPR camera watchlist alert in a police public safety workflow.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "SLC-01",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1014",
+    "source": "sample",
+    "subject": "Unknown site",
+    "description": "Hardware fault.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "UNKNOWN",
+    "priority": 2,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1015",
+    "source": "sample",
+    "subject": "Transfer incident",
+    "description": "SFTP transfer failed.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 4,
+    "conversations": [],
+    "history_complete": true
+  },
+  {
+    "id": "1016",
+    "source": "sample",
+    "subject": "Edge status",
+    "description": "Edge device lost contact.",
+    "customer_id": "DEMO-ACME",
+    "site_id": "DEN-01",
+    "priority": 2,
+    "conversations": [
+      {
+        "body": "Update: entire site outage now.",
+        "private": true,
+        "created_at": "2026-09-28T18:00:00Z"
+      }
+    ],
+    "history_complete": true
+  }
+]
